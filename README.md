@@ -11,3 +11,12 @@
 ```   
 ---> https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
 
+### Credits and Sources
+```
+1.Agner fog (www.agnerfog.org) 
+2.MIT opencourse ware
+3.ARM limited
+4.Intel
+5.AMD
+6.VIA
+```
